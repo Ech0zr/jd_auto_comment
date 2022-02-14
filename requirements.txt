@@ -1,0 +1,8 @@
+jieba
+requests
+lxml
+zhon
+pyyaml
+Pillow
+pyzbar
+qrcode
